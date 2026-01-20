@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+}
+
+.hai:hover{
+    color: red;
+}
+
+li:first-child a{
+    color: blanchedalmond;
+}
+
+li:last-child a{
+    color: red;
+}
+
+li:nth-child(4) a:hover{
+    color: whitesmoke;
+}
+
+li:nth-child(5) a:hover{
+    color: green;
+}
+
+p:first-of-type{
+    color: burlywood;
+}
+
+p:last-of-type{
+    color: chocolate;
+}
